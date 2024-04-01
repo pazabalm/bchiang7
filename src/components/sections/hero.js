@@ -65,11 +65,11 @@ const Hero = () => {
   const four = (
     <>
       <p>
-      I'm a  software engineer who builds interactive and responsive web applications using React.  I love crafting user-centric experiences that come alive on any device. Explore my portfolio to see how I turn ideas into engaging experiences for users. ( Currently at {' '}
+      I'm a  software engineer who builds interactive and responsive web applications using React. Explore my portfolio to see how I turn ideas into engaging experiences for users. Currently I'm building accessible and SEO optimized products at {' '}
         <a href="https://www.ltimindtree.com/" target="_blank" rel="noreferrer">
         LTI Mindtree
         </a>
-        {' '})
+  .
       </p>
     </>
   );
