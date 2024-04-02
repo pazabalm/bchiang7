@@ -139,10 +139,6 @@ const About = () => {
               that resonate across all devices. My journey into web development sparked when I first
               tinkered with HTML &amp; CSS in 2014, igniting a passion for crafting elegant and responsive websites.
             </p>
-            <p>Over the years, I've honed my skills as a React developer, specializing in
-              building dynamic and user-friendly interfaces. While my roots lie in front-end development,
-              I'm currently venturing into backend technologies like Node.js, eager to expand my toolkit
-              and evolve into a versatile full-stack developer.</p>
             <p>
               By day, I'm fully engaged as an engineer at {' '}
               <a href="https://www.ltimindtree.com/">LTIMindtree</a>,{' '}
